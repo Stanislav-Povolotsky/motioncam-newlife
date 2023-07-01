@@ -2,30 +2,24 @@
 
 Motion Cam is a camera application for Android that replaces the entire camera pipeline. It consumes RAW images and uses computational photography to combine multiple images to reduce noise. Additionally, it uses a single underexposed image to recover highlights and increase dynamic range.
 
-You can install the latest version from [GitHub](https://github.com/mirsadm/motioncam/releases)
+You can install the latest version from [GitHub](https://github.com/Stanislav-Povolotsky/motioncam-newlife/releases/)
 or a slightly out of date version from the [Play Store](https://play.google.com/store/apps/details?id=com.motioncam)
 
 # RAW video capture
 
 Capture RAW video up to 60 FPS on supported devices.
 
-![Latest beta build](https://github.com/mirsadm/motioncam/releases/download/8.0.8-beta2/MotionCam.8.0.8-beta2.apk)
-
-### Get Help / Join a discussion about the app
-
-For bug reports, discussions and feature requests/ideas join us on Slack:
-
-[Slack Invite](https://join.slack.com/t/motioncam/shared_invite/zt-10ziu3m2d-cdNXbCPJPf1BhTZb_jBgZQ)
+![Latest build](https://github.com/Stanislav-Povolotsky/motioncam-newlife/releases/download/8.0.8-beta2/MotionCam.8.0.8.apk)
 
 ### Convert to DNG on your PC
 
 Download tools to convert the recorded videos to DNG on your PC:
 
-![Windows](https://github.com/mirsadm/motioncam/releases/download/8.0.8-beta2/motioncam-tools-win-0.13.zip)
+![Windows](https://github.com/Stanislav-Povolotsky/motioncam-newlife/releases/download/8.1.0-beta1/motioncam-tools-0.22-win-x64.zip)
 
-![Mac Intel](https://github.com/mirsadm/motioncam/releases/download/8.0.7-beta5/motioncam-tools-mac-intel-0.1.1.dmg)
+![Mac M1](https://github.com/Stanislav-Povolotsky/motioncam-newlife/releases/download/8.1.0-beta1/motioncam-tools-0.22-macos-m1.zip)
 
-![Mac M1](https://github.com/mirsadm/motioncam/releases/download/8.0.8-beta2/motioncam-tools-macos-m1-0.13.zip)
+![Mac Intel](https://github.com/Stanislav-Povolotsky/motioncam-newlife/releases/download/8.0.8-beta2/motioncam-tools-0.11-macos-intel.dmg) (old version)
 
 ### Tutorials
 
